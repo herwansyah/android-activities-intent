@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android Activities Intent</string>
+    <string name="text_form_registrasi">Form Registrasi</string>
+    <string name="input_nama_lengkap">Nama Lengkap</string>
+    <string name="input_alamat">Alamat</string>
+    <string name="input_jenis_kelamin">Jenis Kelamin</string>
+    <string name="input_umur">Umur</string>
+    <string name="input_universitas">Universitas</string>
+    <string name="input_jurusan">Jurusan</string>
+    <string name="submit">Submit</string>
+    <string name="data_pendaftaran">Data Pendaftaran</string>
+</resources>
